@@ -15,13 +15,13 @@
 
 
 
-<div align="left">
+<!--<div align="left">
 
 ![Leonardo Leal GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardojleal&show_icons=true&theme=dracula&count_private=true)
 
  </div>
 
-<div align="left">
+<div align="left">-->
   
 [![Leonardo top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardojleal&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
   
